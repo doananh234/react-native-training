@@ -1,3 +1,7 @@
+/**
+ * How to use "state"
+ */
+
 import React from "react";
 import { StyleSheet, Text, View, TextInput, TouchableOpacity, Button } from "react-native";
 
