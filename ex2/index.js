@@ -55,7 +55,6 @@ export default class App extends Component {
   }
 
   render() {
-    let color = this.state.backgroundAnswer
     const { selected } = this.state;
     return (
       <View style={styles.container}>
